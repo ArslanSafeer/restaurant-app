@@ -1,0 +1,132 @@
+{
+  "user": [
+    {
+      "name": "arslan",
+      "email": "arslan@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "MDF wing",
+      "email": "arsalansafeer@gmail.com",
+      "password": "aaaaa",
+      "id": 2
+    },
+    {
+      "name": "noman",
+      "email": "abc@gmail.com",
+      "password": "sasa",
+      "id": 3
+    },
+    {
+      "name": "Rehman",
+      "email": "rehman@gmail.com",
+      "password": "aaaaa",
+      "id": 4
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "name": "khan",
+      "email": "khan@gmail.com",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "PC",
+      "address": "Saddar Rawalpindi",
+      "contact": "+921234567"
+    },
+    {
+      "name": "Marriott",
+      "address": "islamabad",
+      "contact": "03125493112",
+      "id": 3
+    },
+    {
+      "name": "Marriott",
+      "address": "islamabad",
+      "contact": "03125493112",
+      "id": 4
+    },
+    {
+      "name": "Marriott",
+      "address": "islamabad",
+      "contact": "03125493112",
+      "id": 5
+    },
+    {
+      "name": "Marriott",
+      "address": "islamabad",
+      "contact": "03125493112",
+      "id": 6
+    },
+    {
+      "name": "Marriott",
+      "address": "islamabad",
+      "contact": "03125493112",
+      "id": 7
+    },
+    {
+      "name": "Marriott",
+      "address": "islamabad",
+      "contact": "03125493112",
+      "id": 8
+    },
+    {
+      "name": "Marriott",
+      "address": "islamabad",
+      "contact": "03125493112",
+      "id": 9
+    },
+    {
+      "name": "Marriott",
+      "address": "islamabad",
+      "contact": "03125493112",
+      "id": 10
+    }
+  ]
+}

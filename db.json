@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "arslan",
+      "email": "arslan@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "MDF wing",
+      "email": "arsalansafeer@gmail.com",
+      "password": "aaaaa",
+      "id": 2
+    },
+    {
+      "name": "noman",
+      "email": "abc@gmail.com",
+      "password": "sasa",
+      "id": 3
+    },
+    {
+      "name": "Rehman",
+      "email": "rehman@gmail.com",
+      "password": "aaaaa",
+      "id": 4
+    }
+  ]
+}
